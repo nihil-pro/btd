@@ -256,3 +256,4 @@ gitGraph
 3. Команда `/submit` создаёт запрос на слияние в `feature/<feature-id>`;
 4. Доработка после ревью через `/update <artifact-id>` в той же ветке, и повторный `/submit`;
 5. После одобрения вливается в `feature/<feature-id>`.
+
